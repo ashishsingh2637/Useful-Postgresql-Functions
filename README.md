@@ -1,4 +1,4 @@
-# Postgresql-Json-Functions
-Useful postgresql json function
+# Useful-Postgresql-Functions
+Useful postgresql function
 
-The project consists of very useful user defined functions using POSTGRESQL JSON.
+The project consists of very useful POSTGRESQL user defined functions.
